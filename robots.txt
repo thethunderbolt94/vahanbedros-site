@@ -1,0 +1,5 @@
+# Search engines and AI assistants (GPTBot, ClaudeBot, PerplexityBot, Google-Extended...) are all welcome.
+User-agent: *
+Allow: /
+
+Sitemap: https://vahanbedros.com/sitemap.xml
